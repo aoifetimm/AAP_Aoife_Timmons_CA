@@ -39,7 +39,7 @@ public class SpotifyRecord implements Comparable<SpotifyRecord>, Serializable { 
 
     @Override
     public int compareTo(SpotifyRecord spotifyRecord) {
-        // if thing less than other thing return -1
+        // if value less than other thing return -1
         // if thing equal to other thing return 0
         // if thing greater than other thing return 1
         if(energy < spotifyRecord.getEnergy()){
@@ -55,6 +55,7 @@ public class SpotifyRecord implements Comparable<SpotifyRecord>, Serializable { 
     }
 
     public void setTitle(String title) {
+        //if statements to validate if user input is empty for question 5
         if(title.isEmpty()){
             System.out.println("You must enter a title for the song");
         }else{
@@ -93,7 +94,7 @@ public class SpotifyRecord implements Comparable<SpotifyRecord>, Serializable { 
 
     public void setYear(int year) {
         if(year < 1920 || year > 2022){
-            System.out.println("You must enter a valid year in four digit format");
+            System.out.println("You must enter a valid year between 1920 and 2022");
         }else {
             this.year = year;
         }

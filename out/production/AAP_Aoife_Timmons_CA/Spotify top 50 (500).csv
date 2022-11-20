@@ -1,5 +1,5 @@
 title,artist,the genre of the track,year,Beats.Per.Minute -The tempo of the song,"Energy- The energy of a song - the higher the value, the more energtic","Danceability - The higher the value, the easier it is to dance to this song","Loudness/dB - The higher the value, the louder the song","Liveness - The higher the value, the more likely the song is a live recording","Valence - The higher the value, the more positive mood for the song",Length - The duration of the song,Acousticness - The higher the value the more acoustic the song is,Speechiness - The higher the value the more spoken word the song contains,Popularity- The higher the value the more popular the song is
-"Hey Soul Sister",Train,neo mellow,2010,97,89,67,-4,8,80,217,19,4,83
+Hey Soul Sister,Train,neo mellow,2010,97,89,67,-4,8,80,217,19,4,83
 Love The Way You Lie,Eminem,detroit hip hop,2010,87,93,75,-5,52,64,263,24,23,82
 TiK ToK,Kesha,dance pop,2010,120,84,76,-3,29,71,200,10,14,80
 Bad Romance,Lady Gaga,dance pop,2010,119,92,70,-4,8,71,295,0,4,79
@@ -157,7 +157,7 @@ Clarity,Zedd,complextro,2013,128,78,51,-3,7,18,271,4,7,75
 Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix,Lana Del Rey,art pop,2013,126,81,57,-6,13,11,215,2,6,74
 Under Control,Calvin Harris,dance pop,2013,126,92,54,-3,12,51,184,13,8,74
 Everybody Talks,Neon Trees,indie pop,2013,155,92,47,-4,31,73,177,0,6,74
-"Hold On We're Going Home",Drake,canadian hip hop,2013,100,41,77,-7,7,29,228,0,10,73
+Hold On We're Going Home,Drake,canadian hip hop,2013,100,41,77,-7,7,29,228,0,10,73
 Best Song Ever,One Direction,boy band,2013,118,88,65,-3,8,49,200,2,5,73
 Kiss You,One Direction,boy band,2013,90,93,63,-3,32,91,183,2,6,73
 Sweet Nothing (feat. Florence Welch),Calvin Harris,dance pop,2013,128,93,57,-4,6,58,213,20,11,72
@@ -298,13 +298,13 @@ Hello,Adele,british soul,2015,158,45,48,-6,9,29,295,34,3,73
 Dear Future Husband,Meghan Trainor,dance pop,2015,79,78,66,-5,32,83,184,38,19,72
 43776,Beyonce,dance pop,2015,136,71,75,-5,13,56,214,1,13,72
 The Heart Wants What It Wants,Selena Gomez,dance pop,2015,83,79,62,-5,14,62,227,5,4,72
-"Hey Mama (feat. Nicki Minaj Bebe Rexha & Afrojack)",David Guetta,dance pop,2015,86,73,60,-4,33,53,193,24,15,72
+Hey Mama (feat. Nicki Minaj Bebe Rexha & Afrojack),David Guetta,dance pop,2015,86,73,60,-4,33,53,193,24,15,72
 Genie In a Bottle,Christina Aguilera,dance pop,2015,176,80,63,-7,14,91,218,21,16,72
 Company,Justin Bieber,canadian pop,2015,95,80,59,-5,8,43,208,13,6,72
 Sing,Ed Sheeran,pop,2015,120,67,82,-4,6,94,235,30,5,71
 Jealous - Remix,Nick Jonas,dance pop,2015,93,71,68,-4,44,45,222,1,8,70
 Really Don't Care,Demi Lovato,dance pop,2015,121,73,71,-4,19,85,202,12,9,70
-"Downtown (feat. Melle Mel Grandmaster Caz Kool Moe Dee & Eric Nally)",Macklemore & Ryan Lewis,dance pop,2015,110,61,83,-4,29,71,293,9,7,70
+Downtown (feat. Melle Mel Grandmaster Caz Kool Moe Dee & Eric Nally),Macklemore & Ryan Lewis,dance pop,2015,110,61,83,-4,29,71,293,9,7,70
 Only Love Can Hurt Like This,Paloma Faith,british soul,2015,91,89,57,-5,33,31,233,10,8,69
 Heartbeat Song,Kelly Clarkson,dance pop,2015,149,80,49,-4,6,48,199,1,5,69
 Up,Olly Murs,dance pop,2015,115,85,69,-5,10,64,224,2,3,69
@@ -378,7 +378,7 @@ Scars To Your Beautiful,Alessia Cara,canadian contemporary r&b,2016,97,74,57,-6,
 Like I'm Gonna Lose You (feat. John Legend),Meghan Trainor,dance pop,2016,108,53,63,-7,18,42,225,40,4,79
 Work,Rihanna,barbadian pop,2016,92,53,73,-6,9,56,219,8,9,78
 Stitches,Shawn Mendes,canadian pop,2016,150,75,75,-7,5,76,207,2,7,78
-"Me Myself & I",G-Eazy,hip hop,2016,112,67,76,-7,16,38,251,2,10,78
+Me Myself & I,G-Eazy,hip hop,2016,112,67,76,-7,16,38,251,2,10,78
 I Took A Pill In Ibiza - Seeb Remix,Mike Posner,dance pop,2016,102,71,66,-7,8,69,198,4,11,78
 Dangerous Woman,Ariana Grande,dance pop,2016,134,60,66,-5,36,29,236,5,4,78
 Starving,Hailee Steinfeld,dance pop,2016,100,62,73,-4,11,51,182,38,6,78
@@ -458,7 +458,7 @@ Something Just Like This,The Chainsmokers,electropop,2017,103,65,61,-7,17,51,248
 Rockabye (feat. Sean Paul & Anne-Marie),Clean Bandit,dance pop,2017,102,76,72,-4,18,74,251,41,5,78
 I Don抰 Wanna Live Forever (Fifty Shades Darker),ZAYN,dance pop,2017,118,45,74,-8,33,9,245,6,6,78
 My Way,Calvin Harris,dance pop,2017,120,91,82,-3,16,54,219,9,4,78
-"I'm the One (feat. Justin Bieber Quavo Chance the Rapper & Lil Wayne)",DJ Khaled,dance pop,2017,81,67,61,-4,17,81,289,6,4,77
+I'm the One (feat. Justin Bieber Quavo Chance the Rapper & Lil Wayne),DJ Khaled,dance pop,2017,81,67,61,-4,17,81,289,6,4,77
 Praying,Kesha,dance pop,2017,73,39,58,-7,11,32,230,49,3,77
 Despacito - Remix,Luis Fonsi,latin,2017,178,82,65,-4,10,82,229,23,17,76
 The Greatest,Sia,australian dance,2017,192,73,67,-6,6,73,210,1,27,76
@@ -499,106 +499,3 @@ Love Incredible (feat. Camila Cabello),Cashmere Cat,downtempo,2017,167,50,37,-9,
 No Vacancy (with Sebasti醤 Yatra),OneRepublic,dance pop,2017,100,76,69,-4,14,59,223,8,4,57
 Rich Boy,Galantis,big room,2017,110,90,74,-2,8,65,184,7,5,55
 Lust for Life (with The Weeknd),Lana Del Rey,art pop,2017,100,67,51,-9,36,27,264,58,6,54
-Greenlight (feat. Flo Rida & LunchMoney Lewis),Pitbull,dance pop,2017,115,83,70,-6,36,63,245,28,27,54
-Influence,Tove Lo,dance pop,2017,105,59,77,-10,11,33,225,10,5,54
-Remember I Told You,Nick Jonas,dance pop,2017,113,53,68,-6,4,84,202,14,28,53
-Messin' Around,Pitbull,dance pop,2017,158,81,57,-5,4,78,223,2,5,51
-Water Under the Bridge,Adele,british soul,2017,95,84,60,-7,11,47,240,2,7,49
-Free Me,Sia,australian dance,2017,87,46,27,-4,14,21,286,85,3,44
-Kissing Strangers - Remix,DNCE,dance pop,2017,120,77,76,-6,8,81,202,8,5,43
-A L I E N S,Coldplay,permanent wave,2017,148,88,43,-5,21,25,282,0,4,41
-One Kiss (with Dua Lipa),Calvin Harris,dance pop,2018,124,86,79,-3,8,59,215,4,11,86
-Havana (feat. Young Thug),Camila Cabello,dance pop,2018,105,52,77,-4,13,39,217,18,3,85
-I Like It,Cardi B,pop,2018,136,73,82,-4,37,65,253,10,13,85
-New Rules,Dua Lipa,dance pop,2018,116,70,76,-6,15,61,209,0,7,84
-There's Nothing Holdin' Me Back,Shawn Mendes,canadian pop,2018,122,81,87,-4,8,97,199,38,6,84
-no tears left to cry,Ariana Grande,dance pop,2018,122,71,70,-6,29,35,206,4,6,84
-IDGAF,Dua Lipa,dance pop,2018,97,54,84,-6,8,51,218,4,9,84
-In My Blood,Shawn Mendes,canadian pop,2018,140,71,62,-7,13,49,211,6,7,83
-Wolves,Selena Gomez,dance pop,2018,125,80,72,-5,20,31,198,12,4,83
-Dusk Till Dawn - Radio Edit,ZAYN,dance pop,2018,180,44,26,-7,11,10,239,10,4,83
-Attention,Charlie Puth,dance pop,2018,100,61,78,-5,13,80,209,11,5,83
-Electricity (with Dua Lipa),Silk City,edm,2018,118,67,59,-6,34,51,238,1,5,82
-Love On The Brain,Rihanna,barbadian pop,2018,172,64,51,-5,8,38,224,7,5,82
-"Let Me Go (with Alesso Florida Georgia Line & watt)",Hailee Steinfeld,dance pop,2018,103,71,66,-4,8,74,175,3,5,82
-Silence,Marshmello,brostep,2018,142,76,52,-3,17,29,181,26,9,82
-Sorry Not Sorry,Demi Lovato,dance pop,2018,144,64,71,-7,26,89,204,2,23,81
-Shallow - Radio Edit,Lady Gaga,dance pop,2018,96,33,57,-7,9,28,217,42,3,80
-These Days,Rudimental,dance pop,2018,92,81,65,-4,17,55,211,19,5,80
-What Lovers Do (feat. SZA),Maroon 5,pop,2018,110,60,80,-5,10,42,200,8,6,79
-Finesse - Remix; feat. Cardi B,Bruno Mars,pop,2018,105,86,70,-5,2,93,217,2,10,78
-Perfect Duet (Ed Sheeran & Beyonc?,Ed Sheeran,pop,2018,95,30,59,-7,12,36,260,78,3,78
-Bad At Love,Halsey,dance pop,2018,118,75,68,-4,9,61,181,6,3,78
-Him & I (with Halsey),G-Eazy,hip hop,2018,88,73,59,-6,31,19,269,5,9,78
-Friends (with BloodPop?,Justin Bieber,canadian pop,2018,105,73,74,-5,30,62,189,0,4,77
-Wild Thoughts (feat. Rihanna & Bryson Tiller),DJ Khaled,dance pop,2018,98,67,67,-3,12,63,204,3,7,76
-My My My!,Troye Sivan,dance pop,2018,103,46,70,-8,5,48,205,0,8,76
-Capital Letters,Hailee Steinfeld,dance pop,2018,100,81,66,-6,5,46,219,3,8,76
-Sick Boy,The Chainsmokers,electropop,2018,90,58,66,-8,12,45,193,11,5,76
-Tequila,Dan + Shay,contemporary country,2018,86,59,47,-6,13,50,196,3,3,76
-Look What You Made Me Do,Taylor Swift,pop,2018,128,71,77,-6,13,51,212,20,12,75
-Youth (feat. Khalid),Shawn Mendes,canadian pop,2018,100,60,53,-7,13,32,191,56,12,75
-Bad Liar,Selena Gomez,dance pop,2018,121,41,97,-6,8,73,215,19,7,75
-Anywhere,Rita Ora,dance pop,2018,107,80,63,-4,10,32,215,4,6,74
-Say Something,Justin Timberlake,dance pop,2018,97,63,71,-7,8,37,279,10,8,74
-Chun-Li,Nicki Minaj,dance pop,2018,129,73,69,-5,11,48,192,28,37,73
-Sign of the Times,Harry Styles,dance pop,2018,120,57,52,-5,11,21,341,3,3,72
-Familiar,Liam Payne,dance pop,2018,93,81,64,-5,8,91,197,2,33,72
-Let Me,ZAYN,dance pop,2018,168,57,46,-6,10,19,185,24,5,72
-Supernova,Ansel Elgort,dance pop,2018,140,62,77,-5,21,68,191,6,10,72
-Nervous,Shawn Mendes,canadian pop,2018,122,62,84,-7,13,74,164,4,8,71
-First Time,Kygo,edm,2018,90,59,63,-7,10,68,194,20,11,71
-End Game,Taylor Swift,pop,2018,159,59,65,-6,11,15,245,1,6,70
-Mi Gente (feat. Beyonc?,J Balvin,latin,2018,105,72,76,-6,23,47,210,2,8,68
-Lemon,N.E.R.D,hip hop,2018,95,73,92,-7,12,20,220,0,9,68
-For You (With Rita Ora),Liam Payne,dance pop,2018,113,80,54,-5,42,18,243,2,3,67
-Want To,Dua Lipa,dance pop,2018,92,69,57,-5,6,32,212,8,12,67
-What I Need (feat. Kehlani),Hayley Kiyoko,dance pop,2018,104,79,63,-4,16,41,220,5,6,67
-Wait,Maroon 5,pop,2018,126,60,66,-5,11,45,191,10,6,67
-What About Us,P!nk,dance pop,2018,114,59,39,-6,9,19,272,3,6,66
-Kissing Strangers,DNCE,dance pop,2018,120,74,77,-6,9,86,202,5,4,66
-2U (feat. Justin Bieber),David Guetta,dance pop,2018,145,61,53,-7,23,53,195,23,6,65
-Walk On Water (feat. Beyonc?,Eminem,detroit hip hop,2018,82,44,48,-10,64,62,304,81,24,65
-This Town,Niall Horan,dance pop,2018,112,41,68,-8,12,20,233,70,3,64
-"Girls (feat. Cardi B Bebe Rexha & Charli XCX)",Rita Ora,dance pop,2018,94,69,73,-4,10,42,221,2,5,64
-MOVE TO MIAMI,Enrique Iglesias,dance pop,2018,100,87,76,-4,7,90,169,3,5,64
-Miss You (with Major Lazer & Tory Lanez),Cashmere Cat,downtempo,2018,100,64,75,-5,11,45,186,25,9,64
-Filthy,Justin Timberlake,dance pop,2018,97,58,75,-6,25,65,294,4,14,62
-Never Be the Same - Radio Edit,Camila Cabello,dance pop,2018,130,69,63,-4,12,25,227,16,9,57
-Ferrari,Bebe Rexha,dance pop,2018,77,48,58,-6,10,42,213,2,3,57
-Supplies,Justin Timberlake,dance pop,2018,120,55,79,-7,13,23,226,1,5,57
-Boom Boom,RedOne,moroccan pop,2018,110,76,75,-8,20,58,248,0,5,53
-...Ready For It? - BloodPop?Remix,Taylor Swift,pop,2018,160,84,58,-5,10,50,190,13,22,52
-Drip (feat. Migos),Cardi B,pop,2018,130,59,97,-8,8,27,264,5,26,45
-Tell Me You Love Me - NOTD Remix,Demi Lovato,dance pop,2018,102,77,58,-5,9,76,182,5,8,44
-Memories,Maroon 5,pop,2019,91,32,76,-7,8,57,189,84,5,99
-Lose You To Love Me,Selena Gomez,dance pop,2019,102,34,51,-9,21,9,206,58,4,97
-Someone You Loved,Lewis Capaldi,pop,2019,110,41,50,-6,11,45,182,75,3,96
-Se駉rita,Shawn Mendes,canadian pop,2019,117,54,76,-6,9,75,191,4,3,95
-How Do You Sleep?,Sam Smith,pop,2019,111,68,48,-5,8,35,202,15,9,93
-South of the Border (feat. Camila Cabello & Cardi B),Ed Sheeran,pop,2019,98,62,86,-6,9,67,204,15,8,92
-Trampoline (with ZAYN),SHAED,electropop,2019,127,46,62,-6,14,50,184,56,3,92
-Happier,Marshmello,brostep,2019,100,79,69,-3,17,67,214,19,5,90
-Truth Hurts,Lizzo,escape room,2019,158,62,72,-3,12,41,173,11,11,90
-Good as Hell (feat. Ariana Grande) - Remix,Lizzo,escape room,2019,96,89,67,-3,74,48,159,30,6,90
-Higher Love,Kygo,edm,2019,104,68,69,-7,10,40,228,2,3,88
-Only Human,Jonas Brothers,boy band,2019,94,50,80,-6,6,87,183,11,7,87
-Beautiful People (feat. Khalid),Ed Sheeran,pop,2019,93,65,64,-8,8,55,198,12,19,86
-Sucker,Jonas Brothers,boy band,2019,138,73,84,-5,11,95,181,4,6,86
-Don't Call Me Up,Mabel,dance pop,2019,99,88,67,-3,8,23,178,30,15,86
-I Don't Care (with Justin Bieber),Ed Sheeran,pop,2019,102,68,80,-5,9,84,220,9,4,85
-Talk (feat. Disclosure),Khalid,alternative r&b,2019,136,40,90,-9,6,35,198,5,13,84
-Giant (with Rag'n'Bone Man),Calvin Harris,dance pop,2019,122,89,81,-4,8,61,229,2,4,84
-Takeaway,The Chainsmokers,electropop,2019,100,51,53,-8,10,35,210,13,3,83
-All Around The World (La La La),R3HAB,big room,2019,125,86,73,-5,11,52,148,48,3,82
-Girls Like You (feat. Cardi B),Maroon 5,pop,2019,125,54,85,-7,13,45,236,57,5,81
-Call You Mine,The Chainsmokers,electropop,2019,104,70,59,-6,34,52,218,20,3,81
-No Guidance (feat. Drake),Chris Brown,dance pop,2019,93,45,70,-7,16,14,261,12,15,81
-Antisocial (with Travis Scott),Ed Sheeran,pop,2019,152,82,72,-5,36,91,162,13,5,78
-"Taki Taki (feat. Selena Gomez Ozuna & Cardi B)",DJ Snake,electronic trap,2019,96,80,84,-4,6,62,213,16,23,77
-Con Calma - Remix,Daddy Yankee,latin,2019,94,87,74,-3,4,61,181,17,5,76
-Find U Again (feat. Camila Cabello),Mark Ronson,dance pop,2019,104,66,61,-7,20,16,176,1,3,75
-Cross Me (feat. Chance the Rapper & PnB Rock),Ed Sheeran,pop,2019,95,79,75,-6,7,61,206,21,12,75
-"No Brainer (feat. Justin Bieber Chance the Rapper & Quavo)",DJ Khaled,dance pop,2019,136,76,53,-5,9,65,260,7,34,70
-Nothing Breaks Like a Heart (feat. Miley Cyrus),Mark Ronson,dance pop,2019,114,79,60,-6,42,24,217,1,7,69
-Kills You Slowly,The Chainsmokers,electropop,2019,150,44,70,-9,13,23,213,6,6,67
